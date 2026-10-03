@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "onlyx",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Connect an OnlyX agency workspace to your assistant with OAuth. Read creators, inbox activity, fans and statistics, and use the workspace operations allowed by your connection.",
   "author": {
     "name": "OnlyX",

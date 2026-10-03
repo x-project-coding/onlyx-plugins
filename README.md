@@ -43,6 +43,8 @@ Read workspace details, creators, inbox counts, fans, statistics and Help Center
 
 Your assistant sends MCP tool inputs to `https://mcp.onlyx.ai/mcp` and receives the results from your authorized OnlyX workspace. OAuth authorization is handled by `https://api.onlyx.ai`. OnlyX uses the workspace's authorized account connections for the requested operations. The package contains remote connection configuration and the approved OnlyX icon; it has no local executable, hooks or embedded credentials.
 
+The `search_docs` tool can send its search query to Mintlify when the documentation search service is configured. Keep credentials and private workspace information out of documentation search queries. Write operations, such as updating fan notes or settings, save the requested changes in your OnlyX workspace.
+
 To revoke access, open **OnlyX Settings → API & MCP → Connected apps** and disconnect the app.
 
 Example requests:
