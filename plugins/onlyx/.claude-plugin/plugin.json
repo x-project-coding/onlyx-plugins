@@ -1,7 +1,7 @@
 {
   "name": "onlyx",
   "displayName": "OnlyX for OnlyFans",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An OnlyFans agency assistant from OnlyX. Connect your OnlyX workspace through OAuth to read creators, inbox activity, fans and statistics, and use operations permitted by your connection.",
   "author": {
     "name": "OnlyX",
@@ -10,7 +10,14 @@
   },
   "homepage": "https://help.onlyx.ai/developers/mcp/claude",
   "repository": "https://github.com/x-project-coding/onlyx-plugins",
-  "keywords": ["onlyx", "onlyfans", "agency", "crm", "analytics", "mcp"],
+  "keywords": [
+    "onlyx",
+    "onlyfans",
+    "agency",
+    "crm",
+    "analytics",
+    "mcp"
+  ],
   "mcpServers": "./.mcp.json",
   "icon": "./assets/onlyx-mark.png",
   "documentationUrl": "https://help.onlyx.ai/developers/mcp/claude",

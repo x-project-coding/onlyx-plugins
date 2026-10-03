@@ -57,3 +57,7 @@ Example requests:
 - [Tool catalog and scopes](https://help.onlyx.ai/developers/mcp/tools)
 - [Support](https://onlyx.ai/support): support@onlyx.ai
 - [Privacy policy](https://onlyx.ai/privacy)
+
+## License
+
+The plugin configuration and documentation use the [MIT license](LICENSE). OnlyX logo and trademark rights are reserved; the hosted OnlyX service is outside this license. See the license file for its scope.
