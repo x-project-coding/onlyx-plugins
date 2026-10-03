@@ -1,0 +1,20 @@
+{
+  "name": "onlyx",
+  "interface": {
+    "displayName": "OnlyX"
+  },
+  "plugins": [
+    {
+      "name": "onlyx",
+      "source": {
+        "source": "local",
+        "path": "./plugins/onlyx"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

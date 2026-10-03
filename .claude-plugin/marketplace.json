@@ -1,0 +1,17 @@
+{
+  "name": "onlyx",
+  "description": "OnlyX plugins for OnlyFans agencies",
+  "owner": {
+    "name": "OnlyX",
+    "email": "support@onlyx.ai"
+  },
+  "plugins": [
+    {
+      "name": "onlyx",
+      "displayName": "OnlyX for OnlyFans",
+      "source": "./plugins/onlyx",
+      "description": "OnlyFans agency assistant from OnlyX, connected through OAuth.",
+      "category": "productivity"
+    }
+  ]
+}
