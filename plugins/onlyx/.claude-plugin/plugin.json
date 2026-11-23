@@ -1,10 +1,10 @@
 {
   "name": "onlyx",
-  "displayName": "OnlyX for OnlyFans",
+  "displayName": "Onlyx for OnlyFans",
   "version": "1.0.2",
-  "description": "An OnlyFans agency assistant from OnlyX. Connect your OnlyX workspace through OAuth to read creators, inbox activity, fans and statistics, and use operations permitted by your connection.",
+  "description": "An OnlyFans agency assistant from Onlyx. Connect your Onlyx workspace through OAuth to read creators, inbox activity, fans and statistics, and use operations permitted by your connection.",
   "author": {
-    "name": "OnlyX",
+    "name": "Onlyx",
     "email": "support@onlyx.ai",
     "url": "https://onlyx.ai"
   },
